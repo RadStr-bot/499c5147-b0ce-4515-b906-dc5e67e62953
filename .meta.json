@@ -5,7 +5,9 @@
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {},
+    "label": {
+      "CS": "CSSSSDd"
+    },
     "description": {}
   },
   "metadata": {
